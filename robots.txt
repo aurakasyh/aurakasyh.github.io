@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://aurakasyh.github.io/sitemap/sitemap.txt
